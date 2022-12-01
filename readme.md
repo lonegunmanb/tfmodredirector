@@ -1,5 +1,7 @@
 # tfmodredirector
 
+![master status](https://img.shields.io/github/workflow/status/lonegunmanb/tfmodredirector/Main-Branch-Push)
+
 This helper function could rewrite `module`'s `source` attribute, given the following hcl:
 
 ```hcl

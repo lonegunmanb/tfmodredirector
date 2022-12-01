@@ -1,4 +1,4 @@
-name: Main Branch Push
+name: push-check
 on:
   push:
     branches:
